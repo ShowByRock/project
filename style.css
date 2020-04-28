@@ -1,10 +1,14 @@
-html{
+html {
     background-color: darkslategray;
 }
 
-div{
+div {
     border: dimgray 1px solid;
     height: 300px;
     width: 300px;
     background-color: darkgray;
+}
+
+button {
+    background-color: wheat;
 }
