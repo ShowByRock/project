@@ -310,12 +310,26 @@
 // console.log(arr);
 // console.log(i);
 
-let arr = ['1', '15', '4', ],
-    i = arr.sort(compareNum);
+// let arr = ['1', '15', '4', ],
+//     i = arr.sort(compareNum);
 
-function compareNum(a, b) {
-    return a - b;
-}
+// function compareNum(a, b) {
+//     return a - b;
+// }
 
-console.log(arr);
-console.log(i);
+// console.log(arr);
+// console.log(i);
+
+// let solider = {
+//     health: 400,
+//     armor: 100
+// };
+
+// let john = {
+//     health: 100
+// };
+
+// john.__proto__ = solider;
+
+// console.log(john);
+// console.log(john.armor);
